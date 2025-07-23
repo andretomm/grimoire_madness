@@ -1,0 +1,29 @@
+# File Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# File temporanei
+temp/
+*.tmp
+*.log
+
+# File di salvataggio (opzionale - commentare se si vogliono tracciare)
+# data/*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# File di backup
+*.bak
+*~
+*.orig

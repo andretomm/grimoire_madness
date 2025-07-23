@@ -1,0 +1,15 @@
+# Nessuna dipendenza esterna richiesta
+# Il gioco usa solo librerie standard di Python 3.7+
+
+# Librerie utilizzate (tutte incluse in Python):
+# - json (per il salvataggio e comunicazione client-server)
+# - os (per operazioni di sistema) 
+# - random (per elementi casuali)
+# - time (per pause e timeout)
+# - typing (per type hints)
+# - dataclasses (per strutture dati)
+# - enum (per enumerazioni)
+# - uuid (per ID univoci)
+# - copy (per copie profonde)
+# - socket (per comunicazione di rete)
+# - threading (per gestione multi-thread del server)
